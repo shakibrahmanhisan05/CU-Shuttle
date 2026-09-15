@@ -15,6 +15,6 @@ This early release allows users to try the app, share live locations, and test t
 
 This is an early beta version, so you may experience bugs, temporary issues, or unexpected behavior.
 
-If you find a problem, please report it to the Project Mithojibi team.
+If you find a problem, please report it to the CUCSU team.
 
-Thank you for testing Project Mithojibi Expo.
+Thank you for testing CU Shuttle Tracker.
